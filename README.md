@@ -1,1 +1,1 @@
-# A simple calculator in calculator
+# A simple calculator in Flutter
